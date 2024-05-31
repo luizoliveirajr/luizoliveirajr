@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Luiz Oliveira 🖐️ 
-📚 Sou formado em Ciência da Computação <br/> e tenho habilidades em desenvolvimento FullStack com Java e Angular.
+📚 Possuo formação em Ciência da Computação <br/> Atuo desenvolvimento FullStack com Java e Angular. <br/> Autodidata
 
 ## Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-marcelo-de-oliveira-junior-9777bb1b4/)
