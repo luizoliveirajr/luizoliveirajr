@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Luiz Oliveira 🖐️ 
-📚 Possuo formação em Ciência da Computação <br/> Atuo com desenvolvimento FullStack com Java e Angular. <br/> Sou Autodidata.
+Desenvolvedor com mais de 4 anos de experiência no desenvolvimento web, especializado em Java (8+), Angular (11+) e Spring Boot (2+). Possuo sólida atuação em tecnologias como Spring Data, MySQL 8, Jenkins, Docker, Feign, Hibernate, Flyway, RESTful, Git, OAuth2, Spring Security e JasperReports.
 
 ## Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-marcelo-de-oliveira-junior-9777bb1b4/)
+[![Meu Site](https://img.shields.io/badge/MEU%20SITE-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://luizoliveirajr.github.io/site-portifolio/)
 
 ## Tecnologias que eu uso no meu dia
 
